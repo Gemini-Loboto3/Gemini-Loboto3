@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gemini-Loboto3&show_icons=true&theme=gotham" alt="mercury501" width="400" margin="0px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemini-Loboto3&layout=compact&theme=gotham&langs_count=6" alt="mercury501" width="300"/>
